@@ -15,3 +15,7 @@ will most probably increase activity in your server, as well as increase your se
 
 **Got any egg suggestions? Post them in the iDevision #general channel and ping Lgan#0494 in the message, you will not have to design
 the egg you suggest.**
+
+## Quick links
+
+[iDevision server](https://discord.gg/uxmj884)
