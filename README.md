@@ -3,6 +3,8 @@
 Hello and welcome to the Discord Egg Hunt bot! This bot will allow you to collect eggs hidden throughout your discord server,
 and possibly in other servers that the bot partners with.
 
+Want to follow the development? Hit the star button at the top of the page.
+
 ## Eggs
 
 The bot will have many eggs for you to collect, all with their own special image when you find it. You will recieve special awards
